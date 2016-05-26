@@ -1,0 +1,28 @@
+Importante
+----------
+
+1.- Crear la BD
+2.- Crear el proyecto, separandolo en capas
+(paquetes) --> gui, model, bd
+3.- Copia de la clase Conexión
+4.- Mapear la BD (Construir las tablas
+como clases, así tal cual, 200 100 lucas)
+5.- En las clases mapeadas, creamos 
+un constructor vacío.
+6.- Debemos construir la clase Data.
+    - Conexion c;
+    - En el constructor, construyo el objeto de Conexión
+7.- CRUD
+
+Create --> insert           --> Crear
+Read   --> select           --> Buscar, listar
+Update --> update           --> Actualizar un dato
+Delete --> update o delete  --> Borrar
+
+CRUD --> Genero
+
+
+Falta
+-----
+
+Falta realizar la ejecucion de las consultas en la BD

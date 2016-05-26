@@ -1,0 +1,7 @@
+-Recordar que a veces el codigo se modifica solo en la definicion del cboGeneros 
+como uso unico para String: 
+
+-Arreglar con Atom linea 756 de:
+"private javax.swing.JComboBox<String> cboGeneros;
+a
+"private javax.swing.JComboBox cboGeneros;"
